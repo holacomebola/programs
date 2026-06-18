@@ -1,0 +1,7 @@
+C:\Estructura de datos (Leon Alex)\Programacion 2\Practica_N_1_ejercicios_simples\Practica_N_1_ejercicios_simples\bin\Debug\Practica_N_1_ejercicios_simples.exe.config
+C:\Estructura de datos (Leon Alex)\Programacion 2\Practica_N_1_ejercicios_simples\Practica_N_1_ejercicios_simples\bin\Debug\Practica_N_1_ejercicios_simples.exe
+C:\Estructura de datos (Leon Alex)\Programacion 2\Practica_N_1_ejercicios_simples\Practica_N_1_ejercicios_simples\bin\Debug\Practica_N_1_ejercicios_simples.pdb
+C:\Estructura de datos (Leon Alex)\Programacion 2\Practica_N_1_ejercicios_simples\Practica_N_1_ejercicios_simples\obj\Debug\Practica_N_1_ejercicios_simples.csproj.AssemblyReference.cache
+C:\Estructura de datos (Leon Alex)\Programacion 2\Practica_N_1_ejercicios_simples\Practica_N_1_ejercicios_simples\obj\Debug\Practica_N_1_ejercicios_simples.csproj.CoreCompileInputs.cache
+C:\Estructura de datos (Leon Alex)\Programacion 2\Practica_N_1_ejercicios_simples\Practica_N_1_ejercicios_simples\obj\Debug\Practica_N_1_ejercicios_simples.exe
+C:\Estructura de datos (Leon Alex)\Programacion 2\Practica_N_1_ejercicios_simples\Practica_N_1_ejercicios_simples\obj\Debug\Practica_N_1_ejercicios_simples.pdb
