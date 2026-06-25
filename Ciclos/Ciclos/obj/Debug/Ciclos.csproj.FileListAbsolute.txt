@@ -1,0 +1,7 @@
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Ciclos\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Ciclos\Ciclos\bin\Debug\Ciclos.exe
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Ciclos\Ciclos\bin\Debug\Ciclos.pdb
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.AssemblyReference.cache
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Ciclos\Ciclos\obj\Debug\Ciclos.exe
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Ciclos\Ciclos\obj\Debug\Ciclos.pdb
