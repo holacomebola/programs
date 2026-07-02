@@ -1,0 +1,7 @@
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Parcial 2\Parcial 2\bin\Debug\Parcial 2.exe.config
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Parcial 2\Parcial 2\bin\Debug\Parcial 2.exe
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Parcial 2\Parcial 2\bin\Debug\Parcial 2.pdb
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.AssemblyReference.cache
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Parcial 2\Parcial 2\obj\Debug\Parcial 2.exe
+C:\Users\PC--5\Documents\programacion II - Alex\ProgramacionII_Noche_CCA\Parcial 2\Parcial 2\obj\Debug\Parcial 2.pdb
